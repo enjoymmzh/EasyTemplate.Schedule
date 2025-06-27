@@ -1,0 +1,1 @@
+﻿ServiceCore.Regist(args);
